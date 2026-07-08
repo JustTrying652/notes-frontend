@@ -49,7 +49,7 @@ export default function Notes() {
   return (
     <div className="min-h-screen bg-gray-100">
       <nav className="bg-white shadow px-6 py-4 flex justify-between items-center">
-        <h1 className="text-xl font-bold text-gray-800">My </h1>
+        <h1 className="text-xl font-bold text-gray-800">My notes</h1>
         <div className="flex gap-4">
           <Link
             to="/notes/create"
