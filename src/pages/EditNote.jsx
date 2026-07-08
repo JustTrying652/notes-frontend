@@ -92,7 +92,7 @@ export default function EditNote() {
   return (
     <div className="min-h-screen bg-gray-100">
       <nav className="bg-white shadow px-6 py-4 flex justify-between items-center">
-        <h1 className="text-xl font-bold text-gray-800">Edit Note</h1>
+        <h1 className="text-xl font-bold text-gray-800">Edit </h1>
         <Link to="/notes" className="text-sm text-gray-600 hover:text-blue-600 transition">
           ← Back to Notes
         </Link>
